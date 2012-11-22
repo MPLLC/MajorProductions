@@ -2,6 +2,9 @@
 ## Eclipse
 #################
 
+Content/
+Scripts/
+packages/
 *.pydevproject
 .project
 .metadata
@@ -15,6 +18,10 @@ local.properties
 .classpath
 .settings/
 .loadpath
+Web.config
+Web.debug.config
+Web.release.config
+packages.config
 
 # External tool builders
 .externalToolBuilders/
