@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://majorproductionsnh.com" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="MP" publishMethod="FTP" replaceMatchingFiles="True" userName="MPftp" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2+Nvb2ALIUeBM9KoFOtNMgAAAAACAAAAAAAQZgAAAAEAACAAAAAzjdYnjEdNK9LJOsJU2ZQ4exYox2E+/67mbZWgSB8FHAAAAAAOgAAAAAIAACAAAAB2xE6q7/0Y5RvFk4GHThUz+smy1WP/3gRrsMIFJehPXSAAAAAkbw5YP/+USSYyFLgkwXQiPvnwpzSEo5kgNG9CcKK9jEAAAADM0dEnymnzlPbr8B5uUyXAf5VEIGluYZuqkrp4HH1eWf684qzM0NdpCWUSVbiHI20W7r5Sp6H31xoyb4nffXlc" SelectedForPublish="True">
+    <file relUrl="Content/Images/close.gif" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Views/Home/Index.aspx" publishTime="07/12/2010 19:27:41" />
+    <file relUrl="Content/Images/About.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Content/CSS/About.css" publishTime="07/12/2010 18:51:00" />
+    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Views/Account/Register.aspx" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Global.asax" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Content/Images/nextlabel.gif" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Content/Images/loading.gif" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Views/Home/Portfolio.aspx" publishTime="07/12/2010 19:47:38" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Content/Images/closelabel.gif" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Views/Shared/LogOnUserControl.ascx" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Content/Images/keyboard.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Content/CSS/MP.css" publishTime="07/12/2010 18:51:00" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Scripts/builder.js" publishTime="07/12/2010 19:17:42" />
+    <file relUrl="Content/Images/Contact.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Content/CSS/Portfolio.css" publishTime="07/12/2010 18:51:00" />
+    <file relUrl="Content/CSS/Failure.css" publishTime="07/12/2010 18:51:00" />
+    <file relUrl="Scripts/prototype.js" publishTime="07/12/2010 19:17:42" />
+    <file relUrl="Content/Images/Portfolio.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="bin/MajorProductions.dll" publishTime="07/12/2010 19:50:58" />
+    <file relUrl="Scripts/lightbox.js" publishTime="07/12/2010 19:17:42" />
+    <file relUrl="Views/Account/ChangePassword.aspx" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Content/Images/Home.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Content/CSS/Index.css" publishTime="07/12/2010 18:51:00" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Scripts/effects.js" publishTime="07/12/2010 19:17:42" />
+    <file relUrl="Content/Images/Thumb.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Views/Home/About.aspx" publishTime="07/12/2010 19:33:09" />
+    <file relUrl="Views/Account/LogOn.aspx" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Content/Images/Helga.PNG" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Content/CSS/Reset.css" publishTime="07/12/2010 18:51:00" />
+    <file relUrl="Content/Images/Header.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Scripts/scriptaculous.js" publishTime="07/12/2010 19:17:42" />
+    <file relUrl="Views/Account/ChangePasswordSuccess.aspx" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Views/Shared/Site.Master" publishTime="07/12/2010 19:56:39" />
+    <file relUrl="Content/Images/Helga.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Views/Home/Contact.aspx" publishTime="07/12/2010 19:50:52" />
+    <file relUrl="Views/Shared/Error.aspx" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Content/Images/Footer.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Content/Images/Helga_thumb.jpg" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="bin/MajorProductions.pdb" publishTime="07/12/2010 19:50:57" />
+    <file relUrl="Content/Images/prevlabel.gif" publishTime="07/12/2010 18:49:57" />
+    <file relUrl="Content/Site.css" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Content/CSS/Contact.css" publishTime="07/12/2010 18:51:00" />
+    <file relUrl="Views/Web.config" publishTime="07/10/2010 17:35:57" />
+    <file relUrl="Content/CSS/lightbox.css" publishTime="07/12/2010 18:51:00" />
+  </publishProfile>
+</publishData>

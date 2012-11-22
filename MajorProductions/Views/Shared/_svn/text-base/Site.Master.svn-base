@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head runat="server">
+    <meta name="WebsiteSpark" content="1bAjUzmxwvl" />
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <link href="../../Content/CSS/Reset.css" rel="stylesheet" type="text/css" />
+    <link href="../../Content/CSS/MP.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="OtherCSSAndScripts" runat="server" />
+</head>
+
+<body>
+    <div id="site">
+        <div id="header">
+            <ul>              
+                <li id="home"><%: Html.ActionLink("Home", "Index", "Home") %></li>
+                <li id="about"><%: Html.ActionLink("About", "About", "Home") %></li>
+                <li id="portfolio"><%: Html.ActionLink("Portfolio", "Portfolio", "Home") %></li>
+                <li id="contact"><%: Html.ActionLink("Contact", "Contact", "Home") %></li>
+            </ul>
+        </div>
+
+        <div id="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+
+        <div id="footer">
+            &copy; Major Productions LLC 2010
+        </div>
+    </div>
+</body>
+</html>
