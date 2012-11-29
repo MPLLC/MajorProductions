@@ -1,5 +1,0 @@
-img { float: left; margin-bottom: 8px; }
-.portDesc { margin-left: 50px; float: left; width: 650px; }
-.techSpecs { font-weight: bold; }
-hr { clear: left; }
-#footer { clear: left; }
